@@ -1,0 +1,1 @@
+This is an empty module (maybe for docs only) to give a name for parent's dir.

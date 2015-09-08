@@ -1,0 +1,6 @@
+To make project with many modules and no main module:
+
+1. Create project with dummy module 1 (prj\dm1). Project name is dm1, and other modules will be shown as his children.
+2. Create dummy module 2 named as project root dir (prj\prj).
+3. Remove dummy module 1, project name changes to what we need (prj)
+4. Create other modules, they will be children of project.

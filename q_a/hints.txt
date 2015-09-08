@@ -1,0 +1,45 @@
+0. Live Templates (Ctrl + J) -- active templates are displayed upon pressing 
+                  (Ctrl + Alt + J) -- Surround the selection with one of the templates.
+
+  Code Completion (http://confluence.jetbrains.com/display/IntelliJIDEA/Code+Completion)
+1. Basic completion (Ctrl + Space) offers most trivial suggestions for variables, types, methods, expressions, etc.
+ - type any characters that exist anywhere in an identifier.
+2. Smart completion (Shift + Ctrl + Space) is aware of the expected type and data flow and offers the option relevant to the context. 
+ - when you call [Smart] completion twice, it shows you more results.
+2a Expand Word (Alt + Slash) -- Goes through the names of classes, methods, keywords and variables in the current visibility scope.
+3. Completion with Tab will overwrite the identifier at the caret, instead of just inserting the suggestion.
+4. Statement completion (Shift + Ctrl + Enter) adds missing parentheses, brackets, braces and adds the necessary formatting.
+5. Negating completion (select a boolean item with !), IntelliJ IDEA automatically adds the negation operator to the result.
+6. Middle matching. It means that you don't necessarily need to type an identifier from the beginning.
+7. Parameter info (Ctrl + P) shows suggested parameter & info for every overloaded method or constructor.
+8. Quick popups are available when you browse suggestions in code completion:
+- Quick documentation (Ctrl + Q)
+- Quick definition (Shift + Ctrl + I)
+9. Exclude from completion (Alt + Enter on an item); turn it back in Settings  Editor  Auto Import.
+10. Completion settings: Settings  Editor  Code Completion.
+
+  Navigation (http://confluence.jetbrains.com/display/IntelliJIDEA/Navigation)
+11. Recent files (Ctrl + E) -- In the meanwhile you can open any tool window.
+12. Structure of file (Ctrl + F12); second press displays inherited members.
+13. Switcher (Ctrl + Tab) between opened files and tool windows.
+14. Jump to navigation bar (Alt + Home) -- dirs.
+15. Navigate between methods (Alt + ).
+16. Navigate to anything supports sophisticated expressions, including camel humps, path, line navigate to, middle name matching:
+- Class (Ctrl + N), File (Ctrl + Shift + N) and Symbol (Ctrl + Alt + Shift + N).
+17. Select in (Alt + F1) opens the file in a particular tool window (or Finder/Explorer).
+18. Other notable features:
+  Navigate to line number via                           Ctrl + G
+  Related files via Gutter (next to the line numbers)
+  Navigate to declaration via 				Ctrl + B
+  Navigate to super via 				Ctrl + U
+  Navigate to implementations via 			Ctrl + Alt + B
+  Navigate to the last edit location via 		Shift + Ctrl + Backspace
+  Navigate to the next error or warning via F2
+  Navigate to a related unit test via 			Shift + Ctrl + T
+  Navigate between braces via 				Ctrl + {  and  Ctrl + }
+
+  Quick popups (http://confluence.jetbrains.com/display/IntelliJIDEA/Quick+Popups)
+21. Parameter info (Ctrl + P) -- Shows the matched overloaded method, highlighting the current parameter.
+22. Quick Definition (Shift + Ctrl + I) -- Implementation of a symbol at the caret.
+23. Documentation (Ctrl + Q)
+24. Show usages (Alt + Ctrl + F7) -- List of usages for any symbol at the caret.
