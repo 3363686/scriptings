@@ -3,6 +3,6 @@
   <component name="SharedFileColors">
     <fileColor scope="Non-Project Files" color="ffffa0" />
     <fileColor scope="Tests" color="e0ffe0" />
-    <fileColor scope="Changed Files" color="e8f0ff" />
+    <fileColor scope="Changed Files" color="e8f1ff" />
   </component>
 </project>
