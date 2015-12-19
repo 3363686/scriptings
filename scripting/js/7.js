@@ -1,5 +1,6 @@
 /**
  * Created by _ame_ on 09.07.2015 1:06.
+ * Test of new JS 'break <label>' form
  */
 
 outer: {
