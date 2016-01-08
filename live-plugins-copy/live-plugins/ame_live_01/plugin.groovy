@@ -47,7 +47,7 @@
   registerAction( menuId, menuKey ){ AnActionEvent event ->
     runDocumentWriteAction(event.project) {
       if( !AmeComment.doComment(event) ){
-        actionById(oldComment).actionPerformed(anActionEvent())   //
+        actionById(oldComment).actionPerformed(anActionEvent())     //
       }
     }
   }
