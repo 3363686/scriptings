@@ -1,5 +1,5 @@
 /**
- * Created by ame on 08.07.2015 12:40.
+ * Created by _ame_ on 08.07.2015 12:40.
  */
 Integer.metaClass.getDaysFromNow = { ->
     Calendar today = Calendar.instance

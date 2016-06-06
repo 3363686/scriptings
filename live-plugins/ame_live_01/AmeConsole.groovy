@@ -7,7 +7,7 @@
  * MyConsolePanel is need because it is private.
  *
  * Made from C:\-w\idea\ame\src\liveplugin\implementation\Console.groovy
- * Created by ame on 12.09.2015 19:26.
+ * Created by _ame_ on 12.09.2015 19:26.
 */
 
 import com.intellij.execution.ExecutionManager

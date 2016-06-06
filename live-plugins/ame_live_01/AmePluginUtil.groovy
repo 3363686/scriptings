@@ -2,7 +2,7 @@
  * show_ame() simply writes to the Event Log only, since groupDisplayId = "nobaloon".
  * invokeOnEDT_ame is a try to write to log immediately.
  *
-*  Created by ame on 12.09.2015 0:52 0:54.
+*  Created by _ame_ on 12.09.2015 0:52 0:54.
 */
 import com.intellij.notification.Notification
 import com.intellij.notification.NotificationType

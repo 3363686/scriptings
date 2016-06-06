@@ -1,6 +1,6 @@
 /**
  * Add/Remove C++ and myCSV -style comments
- * Created by ame on 21.11.2015 15:51.
+ * Created by _ame_ on 21.11.2015 15:51.
  */
 import com.intellij.openapi.actionSystem.AnActionEvent
 import com.intellij.openapi.actionSystem.PlatformDataKeys

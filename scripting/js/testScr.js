@@ -1,5 +1,5 @@
 /**
- * Created by ame on 30.06.2015 11:40.
+ * Created by _ame_ on 30.06.2015 11:40.
  * Script Monkey file!
  */
 echo("This is hello from test.js");

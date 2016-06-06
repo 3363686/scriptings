@@ -1,6 +1,6 @@
 /**
  * Live plugin # 01
- * Started by ame in 2015.
+ * Started by _ame_ in 2015.
  *
  * A. New or changed handlers (plugins) to some actions
  * B. New plugins inside the Menu that runs them
@@ -47,7 +47,7 @@
   registerAction( menuId, menuKey ){ AnActionEvent event ->
     runDocumentWriteAction(event.project) {
       if( !AmeComment.doComment(event) ){
-        actionById(oldComment).actionPerformed(anActionEvent())     //
+        actionById(oldComment).actionPerformed(anActionEvent()) // Why error!? _!ame_ 08.01.16
       }
     }
   }

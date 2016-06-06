@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="jtest:jar">
+    <output-path>$PROJECT_DIR$/jtest/out/artifacts/jtest_jar</output-path>
+    <root id="archive" name="jtest.jar">
+      <element id="module-output" name="jtest" />
+    </root>
+  </artifact>
+</component>
